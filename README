@@ -1,0 +1,35 @@
+# Soliston
+**Next-Gen IoT-Enabled Windows: Open-Source Programming**
+
+Welcome to Soliston! Our patented windows are IoT-compatible, and this 
+repository hosts the open-source software to make them "smart." We invite 
+developers and contributors to collaborate on innovative features and 
+integrations.
+
+## About Soliston
+Soliston redefines windows by combining cutting-edge mechanical design 
+with IoT technology. While the mechanical aspects are patented, this 
+open-source initiative focuses on the software, empowering everyone to 
+customize and expand its capabilities.
+
+## Features
+- Open-source IoT software for smart windows.
+- Compatibility with smart home platforms (e.g., Home Assistant, Alexa).
+- Support for add-ons like lighting, sensors, and automation features.
+- Modular design for easy customization.
+
+## How to Get Started
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Soliston/Soliston.git
+2 Explore the documentation in the docs/ folder.
+3 Start contributing or experimenting with the code!
+
+## Contributing
+We welcome contributions to enhance Soliston’s functionality!
+Please check out our CONTRIBUTING.md file for guidelines.
+
+## Contact
+For inquiries or discussions, reach us through:
+GitHub Discussions: Soliston Discussions
+Email: halldor@soliston.com
